@@ -1,0 +1,1 @@
+{"runners":{"configs":{"system:/python/web/python34":{"ram":1000,"variables":{},"options":{}}},"default":"system:/python/web/python34"},"builders":{"configs":{}},"mixinTypes":[],"type":"python","attributes":{"language":["python"]},"description":"This is test "}
